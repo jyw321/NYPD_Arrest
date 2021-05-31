@@ -18,7 +18,10 @@ Does the location of those arrests on felony counts correspondent to the areas m
 
 
 The datasets I am going to rely on include:
-[NYPD Arrests Data (Historic)](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u)
-[NYPD precinct map](https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz)
-[COVID-19 Data by Date](https://www1.nyc.gov/site/doh/covid/covid-19-data.page#epicurve)
+[NYPD Arrests Data (Historic)](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u);
+
+[NYPD precinct map](https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz);
+
+[COVID-19 Data by Date](https://www1.nyc.gov/site/doh/covid/covid-19-data.page#epicurve);
+
 It is also important to note that, the NYPD arrest record inevitably shows establishment institutional bias.
