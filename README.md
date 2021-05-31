@@ -18,6 +18,7 @@ Does the location of those arrests on felony counts correspondent to the areas m
 
 
 The datasets I am going to rely on include:
+
 [NYPD Arrests Data (Historic)](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u);
 
 [NYPD precinct map](https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz);
